@@ -1,0 +1,6 @@
+com\sboot\profiles\configuration\MySqlConfig.class
+com\sboot\profiles\repo\SqlRepo.class
+com\sboot\profiles\ProfileEntity.class
+com\sboot\profiles\controller\HomeController.class
+com\sboot\profiles\entity\MultipleDatabseEnity.class
+com\sboot\profiles\SpringBootProfileApplication.class
