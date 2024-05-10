@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:17
 ADD /target/sboot.jar sboot.jar
 EXPOSE 8080
 ENTRYPOINT ["java", "-jar", "sboot.jar"]
